@@ -5,4 +5,4 @@ Website : https://devarsh1606.github.io/tictactoe.io/
 
 Screenshot:
 
-	![ScreenShot](SSTicTacToe.png)
+![ScreenShot](https://github.com/devarsh1606/tictactoe.io/blob/main/SSTicTacToe.png)
